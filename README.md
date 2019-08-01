@@ -1,4 +1,4 @@
-# Hiking Trail Problem for Altonomy coding test.
+# Hiking Trail Problem for Spotfront coding test.
 This program was writtten to solve the hikers crossing a bridge problem provided by Spotfront.
 
 ### Prerequisites

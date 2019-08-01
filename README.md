@@ -1,5 +1,5 @@
 # Hiking Trail Problem for Altonomy coding test.
-This program was writtten to solve the hikers crossing a bridge problem provided by Altonomy.
+This program was writtten to solve the hikers crossing a bridge problem provided by Spotfront.
 
 ### Prerequisites
 Code was built using Visual Studio 2019 and requires having the yaml package https://github.com/jbeder/yaml-cpp.
